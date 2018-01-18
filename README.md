@@ -8,4 +8,4 @@ You can play the game at: https://training20.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-Also... we will find em.
+Also... we will find em. It's true.
